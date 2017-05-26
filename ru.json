@@ -14,6 +14,21 @@
         "forceSmartVote": false
     },
     "ccc": {
+        "admin": "#8ad000",
+        "ambassador": null,
+        "host": "#8ad000",
+        "cohost": "#f27d0c",
+        "manager": "#f93299",
+        "bouncer": "#ff8e29",
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": "#bce375"
+    },
+    "images": {
+        "background": "https://cdn.radiant.dj/rcs/bg/2k14tiki.jpg",
+        "playback": null,
         "admin": null,
         "ambassador": null,
         "host": null,
@@ -22,21 +37,6 @@
         "bouncer": null,
         "rdj": null,
         "subscriber": null,
-        "silversubscriber": null,
-        "friend": null,
-        "user": null
-    },
-    "images": {
-        "background": "https://cdn.radiant.dj/rcs/bg/2k14tiki.jpg",
-        "playback": null,
-        "admin": "#ffff00",
-        "ambassador": null,
-        "host": "#d7211a",
-        "cohost": null,
-        "manager": "#f27d0c",
-        "bouncer": null,
-        "rdj": null,
-        "subscriber": "#f27d0c",
         "silversubscriber": null
     },
     "emotes": {
