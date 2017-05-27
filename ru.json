@@ -20,11 +20,11 @@
         "cohost": "#f93299",
         "manager": "#00cc99",
         "bouncer": "#8ad6d6",
-        "rdj": "#99dbe3",
-        "subscriber": "#ffff00",
+        "rdj": "#ffff00",
+        "subscriber": "#ce1178",
         "silversubscriber": null,
         "friend": null,
-        "user": "#4b1657"
+        "user": "#ce1178"
     },
     "images": {
         "background": "https://cdn.radiant.dj/rcs/bg/2k14tiki.jpg",
