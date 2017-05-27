@@ -21,10 +21,10 @@
         "manager": "#00cc99",
         "bouncer": "#8ad6d6",
         "rdj": "#99dbe3",
-        "subscriber": "#3fa6ae",
+        "subscriber": "#ffff00",
         "silversubscriber": null,
         "friend": null,
-        "user": "#3fa6ae"
+        "user": "#4b1657"
     },
     "images": {
         "background": "https://cdn.radiant.dj/rcs/bg/2k14tiki.jpg",
