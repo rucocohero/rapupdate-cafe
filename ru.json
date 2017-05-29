@@ -1,43 +1,45 @@
--{
- -    "room": "Rapupdate Cafe",
- -    "author": "[COCO] Hero",
- -    "icon": null,
- -    "css": null,
- -    "rules": {
- -        "allowAutorespond": true,
- -        "allowAutowoot": true,
- -        "allowAutojoin": true,
- -        "allowAutograb": true,
- -        "allowSmartVote": true,
- -        "allowEmotes": true,
- -        "allowShowingMehs": true,
- -        "forceSmartVote": false
- -    },
- -    "ccc": {
- -        "admin": "#8ad000",
- -        "ambassador": null,
- -        "host": "#8ad000",
- -        "cohost": "#f93299",
- -        "manager": "#00cc99",
- -        "bouncer": "#8ad6d6",
- -        "rdj": "#ffff00",
- -        "subscriber": "#ce1178",
- -        "silversubscriber": null,
- -        "friend": null,
- -        "user": "#ce1178"
- -    },
- -    "images": {
- -        "background": "http://i.imgur.com/Lcuygx2.jpg",
- -        "playback": null,
- -        "admin": null,
- -        "ambassador": null,
- -        "host": null,
- -        "cohost": null,
- -        "manager": null,
- -        "bouncer": null,
- -        "rdj": null,
- -        "subscriber": null,
- -        "silversubscriber": null
- -    },
- -    "emotes": {
- -    	"emote_name": null
+{
+    "room": "Rapupdate Cafe",
+    "author": "[COCO] Hero",
+    "icon": null,
+    "css": null,
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": "#8ad000",
+        "ambassador": null,
+        "host": "#8ad000",
+        "cohost": "#f93299",
+        "manager": "#00cc99",
+        "bouncer": "#8ad6d6",
+        "rdj": "#ffff00",
+        "subscriber": "#ce1178",
+        "silversubscriber": null,
+        "friend": null,
+        "user": "#ce1178"
+    },
+    "images": {
+        "background": "http://i.imgur.com/Lcuygx2.jpg",
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
